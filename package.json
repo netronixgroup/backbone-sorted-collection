@@ -20,7 +20,7 @@
   "dependencies": {
     "backbone": ">=1.0.0",
     "underscore": ">=1.5.1",
-    "backbone-collection-proxy": "~0.2.0"
+    "backbone-collection-proxy": "github:netronixgroup/backbone-collection-proxy#master"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
